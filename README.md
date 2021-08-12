@@ -1,4 +1,4 @@
-# EWMBA-257: People Analytics (Spring 2021)
+# EWMBA-257: People Analytics (Fall 2021)
 ## Professor Heather Whiteman
 ### GSI: Ignacio Solis
 
